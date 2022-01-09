@@ -1,3 +1,3 @@
 # keubot
-bot discord
+# bot discord
 git clone https://github.com/GitKeu/keubot.git
