@@ -1,0 +1,25 @@
+{
+  "name": "keubot",
+  "version": "1.0.0",
+  "description": "bot feito por ronikeury, para o discord",
+  "main": "keu.js",
+  "scripts": {
+    "test": "\"echo \\\"erro na inicialização\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitkeu/keubot.git"
+  },
+  "keywords": [
+    "keu"
+  ],
+  "author": "ronikeury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitkeu/keubot/issues"
+  },
+  "homepage": "https://github.com/gitkeu/keubot#readme",
+  "dependencies": {
+    "discord.js": "^13.5.1"
+  }
+}
